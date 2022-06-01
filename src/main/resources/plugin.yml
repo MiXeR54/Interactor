@@ -1,0 +1,5 @@
+name: Interactor
+version: '${project.version}'
+main: dev.chernykh.interactor.Interactor
+api-version: 1.18
+website: chernykh.dev
